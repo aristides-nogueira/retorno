@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b12075cbd6c1f02db58b8599de730bf6",
+    "revision": "87475044990038216e0cbb501ea13de1",
     "url": "/retorno/index.html"
   },
   {
-    "revision": "2edfa1103e2b05c083ca",
+    "revision": "613b8b44e17f36440c01",
     "url": "/retorno/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/retorno/static/js/2.6a2fb438.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2edfa1103e2b05c083ca",
-    "url": "/retorno/static/js/main.3bf5f76b.chunk.js"
+    "revision": "613b8b44e17f36440c01",
+    "url": "/retorno/static/js/main.de79afc9.chunk.js"
   },
   {
     "revision": "af9b75f20acd38d938c7",
